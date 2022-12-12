@@ -1,22 +1,93 @@
-# quiz-app
-A free and open-source quiz application
+# Quiz App
 
-## User Stories
+To view a demo example, [click here]
 
--   [ ] User can start the quiz by pressing a `button`
--   [ ] User can see a question with 4 possible answers
--   [ ] After selecting an answer, display the next question to the User. Do this until the quiz is finished
--   [ ] At the end, the User can see the following statistics
-    -   Time it took to finish the quiz
-    -   How many correct answers did he get
-    -   A message showing if he `passed` or `failed` the quiz
+-TODO: add a a demo example link
 
-## Bonus features
 
--   [ ] User can share the result of a quiz on social media
--   [ ] Add multiple quizzes to the application. User can select which one to take
--   [ ] User can create an account and have all the scores saved in his dashboard. User can complete a quiz multiple times
+## 📝 About
 
-## Useful links and resources
+A free and open-source quiz application that lets you play quizzes right in the browser
+
+
+### Introduction
+
+-TODO: add app screens
+
+#### `Look here`
+
+-TODO: add a video demo
+
+
+<a id="used-technologies"></a>
+
+## :rocket: Used Technologies
+
+This project was developed using the following technologies
+
+- Angular
+- Node
+- Docker
+- MongoDB
+- HTML
+- CSS
+- JS
+
+## :rocket: Useful links and resources
 
 -   [Open Trivia Database](https://opentdb.com/api_config.php)
+
+
+<a id="how-to-use"></a>
+
+## :rocket: Development
+
+To get a local copy of the code, clone it using git:
+
+```
+git clone https://github.com/germanogualberto/quiz-app.git
+cd quiz-app
+```
+
+Install dependencies:
+
+```
+npm install
+```
+
+Now, you can start a local web server by running:
+
+```
+npm start
+```
+
+And then open http://localhost:3000 to view it in the browser.
+
+#### Available Scripts
+
+In this project, you can run the following scripts:
+
+| Script        | Description                                                             |
+| ------------- | ----------------------------------------------------------------------- |
+| npm start     | Runs the app in the development mode.                                   |
+
+-TODO: add remaining steps
+
+
+## ✨ Contributing
+
+1. Fork this repository
+2. Improve current code by:
+    - improving the style
+    - adding new feature
+    - improving the documentation
+3. Push your work and create a Pull Request
+
+## License 📄
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+
+  ---
+<h4 align="center">
+    Build with 💓 by <a href="https://www.linkedin.com/in/germano-gualberto/" target="_blank">Germano Gualberto</a>
+</h4>

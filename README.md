@@ -7,7 +7,10 @@ To view a demo example, [click here]
 
 ## 📝 About
 
-A free and open-source quiz application that lets you play quizzes right in the browser
+A free and open-source quiz application that lets you play quizzes right in the browser.
+
+Original idea from the [app-ideas repository](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Quiz-App.md).
+To see the User Stories please look for issues with the user-storie label in [this repository Issues page](https://github.com/germanogualberto/quiz-app/issues).
 
 
 ### Introduction

@@ -30,11 +30,9 @@ This project was developed using the following technologies
 
 - Angular
 - Node
-- Docker
+- Express
 - MongoDB
-- HTML
-- CSS
-- JS
+- Docker
 
 ## :rocket: Useful links and resources
 

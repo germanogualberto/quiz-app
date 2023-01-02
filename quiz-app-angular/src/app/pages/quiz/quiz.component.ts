@@ -3,8 +3,12 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-quiz',
   templateUrl: './quiz.component.html',
-  styleUrls: ['./quiz.component.scss']
+  styleUrls: ['./quiz.component.scss'],
 })
 export class QuizComponent {
+  showQuiz = false;
 
+  onClickStartBtn() {
+    this.showQuiz = !this.showQuiz;
+  }
 }

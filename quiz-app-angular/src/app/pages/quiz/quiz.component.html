@@ -1,0 +1,12 @@
+<div class="quiz-main">
+  <button
+    class="btn-start"
+    mat-raised-button
+    color="primary"
+    (click)="onClickStartBtn()"
+    *ngIf="!showQuiz"
+  >
+    Start
+  </button>
+  <div class="quiz" *ngIf="showQuiz">This is the quiz</div>
+</div>

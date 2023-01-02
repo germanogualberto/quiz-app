@@ -1,0 +1,16 @@
+header {
+  background-color: green;
+  height: 20vh;
+  box-shadow: 0 0.3rem 0.5rem #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: white;
+  margin: auto;
+  width: fit-content;
+  transition: all 0.5s;
+  font-size: 50px;
+}

@@ -28,7 +28,7 @@ To see the User Stories please look for issues with the user-storie label in [th
 
 This project was developed using the following technologies
 
-- Angular
+- React
 - Node
 - Express
 - MongoDB

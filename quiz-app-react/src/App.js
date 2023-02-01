@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Header from "./Header";
-import QuizSection from "./QuizSection";
+import Header from "./components/Header";
+import QuizSection from "./components/QuizSection";
 
 class App extends Component {
   render() {

@@ -1,8 +1,10 @@
 import React, { Component } from "react";
+import Question from "./Question";
 
 class Quiz extends Component {
   render() {
-    return <p>This is a Quiz</p>;
+    const { questions } = this.props;
+    return <Question />;
   }
 }
 

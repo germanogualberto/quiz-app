@@ -9,9 +9,10 @@ class QuizSection extends Component {
     questions: [],
   };
 
-  handleStart = () => {
-    this.setState({ questions: fetchTriviaData() });
+  handleStart = async () => {
     this.setState({ showQuiz: true });
+    const fetchedQuestions = await fetchTriviaData();
+    this.setState({ questions: fetchedQuestions });
   };
 
   render() {
